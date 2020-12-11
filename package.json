@@ -20,6 +20,7 @@
   ],
   "main": "_rem.scss",
   "homepage": "https://github.com/pierreburel/sass-rem",
+  
   "bugs": {
     "url": "https://github.com/pierreburel/sass-rem/issues"
   },
