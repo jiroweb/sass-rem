@@ -10,6 +10,7 @@ $rem-px-only: false !default;
   @if function-exists("list-separator")==true {
     @return list-separator($list);
 
+
   }
 
   // list-separator polyfill by Hugo Giraudel (https://sass-compatibility.github.io/#list_separator_function)
